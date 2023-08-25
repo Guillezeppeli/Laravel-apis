@@ -1,0 +1,28 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f0f0f0;
+    padding: 16px; 
+  }
+  
+  .title {
+    margin-bottom: 16px;
+    text-align: center;
+  }
+  
+  .recipe-item {
+    margin-bottom: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  
+  .recipe-image {
+    width: 150px;
+    height: 150px;
+    margin-right: 16px;
+  }
+  
+  .recipe-link {
+    text-decoration: none;
+  }
